@@ -1,0 +1,14 @@
+# Private / local
+.data/
+*.env
+.DS_Store
+
+# Don’t commit real personal memory/state
+memory/
+MEMORY.md
+
+# Experimental private data
+data/private/
+
+# OS / editor
+.vscode/
